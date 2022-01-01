@@ -65,6 +65,12 @@ Designed and built websites with HTML and CSS to W3C standards. Developed dynami
 * Beginning PHP track
 * Intermediate PHP track
 * Object Oriented PHP track
+* Beginning Java
+* Beginning C#
+* Beginning SQL
+* Digital Literacy
+* Introduction to Project Management
+* Product Management Basics
 
 ### Master CIW Web Designer (2004)
 *CIW*
