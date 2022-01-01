@@ -9,8 +9,12 @@
 #### Associate Directory, Digital Product Architecture (2019 - Present)
 *Advancement Information Technology (AIT)*
 
+Removed years of technical debt from all our code bases.  Lead development team in coming up with better development processes.  Lead design team in coming up with a design process to keep pace with development for more consistency in releasing new features.  Served as scrum master for team and helped remove roadblocks including issues with codebases.  Shared development knowledge with development team to help them improve.  Lead team focused on digital operations and tracking change management. Lead development leads in architecture planning.
+
 #### Associate Director, Digital Development (2017-2019)
 *Communications & External Relations (CER)*
+
+Lead development team to implement better development processes including continuous development.  Served as scrum master for team and helped manager with feature planning.  Continued development of code base with quality automated test coverage.
 
 #### Senior Web Developer (2012-2017)
 *Communications & External Relations (CER)*
