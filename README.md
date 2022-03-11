@@ -9,17 +9,50 @@
 #### Associate Directory, Digital Product Architecture (2019 - Present)
 *Advancement Information Technology (AIT)*
 
-Removed years of technical debt from all our code bases.  Lead development team in coming up with better development processes.  Lead design team in coming up with a design process to keep pace with development for more consistency in releasing new features.  Served as scrum master for team and helped remove roadblocks including issues with codebases.  Shared development knowledge with development team to help them improve.  Lead team focused on digital operations and tracking change management. Lead development leads in architecture planning.
+* Removed years of technical debt from our PHP codebases.  
+* Managed contractor writing and implementing a custom WordPress plugin and theme per scoped requirements.
+* Assisted WordPress developer in building templates and helper functionality to make creating Gutenberg blocks more efficient, as well as, adding unit testing.
+* Lead Digital Operations team in identifying and documenting tools our team is responsible for managing and maintaining.
+* Developed CI pipelines for serverless applications using AWS CDK, SAM, Code Build and Code Pipepline.
+* Rewrote 20+ Lambda funcitons as 3 serverless Node JS applications using Cloudformation templates, Lambda functions and layers, SNS, Cloudwatch Events, and API Gateway.
+* Lead React development team in refining devlopment workflow.  
+* Lead product team in refining design processes to keep pace with development team.
+* Lead discussions on how to improve release cycles to be more manageable and realistic.
+* Served as scrum master for React develompent team using Jira.
+* Helped remove roadblocks including issues with codebases.
+* Shared development knowledge with development team to help them grow.  
+* Wrote React code for implementation of pledge payments into React web application.
+* Assisted React developers in implementing Code Climate in their Github pull requests.
+* Lead React developers in learning how to implement unit testing.
+* Lead Digital Architect team made up of project leads in documenting our processes, standards, and web applications.
 
 #### Associate Director, Digital Development (2017-2019)
 *Communications & External Relations (CER)*
 
-Lead development team to implement better development processes including continuous development.  Served as scrum master for team and helped manager with feature planning.  Continued development of code base with quality automated test coverage.
+* Lead development team to implement the latest development practices such as: code reviews, unit testing, continuous development, agile development, as we moved Wake Forest forward by migrating all our digital products to AWS.
+* Served as SCRUM master for team in following an agile development process and helped manager with feature planning.  
+* Trained and mentored developers on Object Oriented principles.
+* Served as a code reviewer for other developers giving feedback to help them grow, as well as, to offer alternative approahces in addition to ensuring code met our standards.
+* Rewrote PHP web applications with the Slim Framework following S.O.L.I.D. programming principles with 90% code coverage using PHPUnit.
+* Integratedd Code Climate into Github pull request code review process to ensure higher quality code base.
+* Migrated three PHP web applications to AWS using ElasticBeanstalk, S3, SNS, SES, and Lambda functions.
+* Setup CI pipelines using Jenkins for AWS ElasticBeanstalk applications.
+* Customized Vagrant development environments and wrote shell scripts for more efficient local development.
+* Created CRON processes using AWS Lambda funcitons written in Node JS.
+* Scoped and wrote user stories and scenarios for development of custom plugin and theme to be outsourced to a contractor.
 
 #### Senior Web Developer (2012-2017)
 *Communications & External Relations (CER)*
 
-Lead push for server redundancy and later moving to cloud hosting using AWS. Developed best practices and code standards. Integrated Blackbaud endpoints into event registration system. PHPUnit unit testing added to newer code bases. Built APIs for Blackbaud endpoints and third party APIs. Learned and implemented SCRUM / Agile methodology.
+* Lead migration from single server web environment to multi-server environment with passive passive failover process in place.
+* Setup code repository management for all websites/applications and helped team transition from non-version controlled process to a VCS development process using GIT.
+* Developed best practices, code standards, and wiki style documentation.
+* Proposed and developed in-house form framework for building donation forms and event registration forms using the Kohana framework. 
+* Integrated Blackbaud CRM endpoints into event registration system. 
+* Learned and utilized PHPUnit to add unit testing with 70% coverage to newer code bases. 
+* Implemented APIs for access of data from Blackbaud endpoints and integrated APIs into various development projects/applications.
+* Lead discussions to move our infrastructure towards and active-active failover process which results in a project to migrate our web presnces to AWS.
+* Learned and implemented a SCRUM approach to development using Asana and whiteboards.
 
 ---
 
