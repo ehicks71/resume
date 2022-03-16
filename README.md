@@ -110,3 +110,20 @@ Designed and built websites with HTML and CSS to W3C standards. Developed dynami
 
 ### Bachelor of Science in Biology (1989-1993)
 *University of North Carolina at Chapel Hill*
+
+## Books I've Read Since 2016
+
+* The Phoenix Project
+* Drive: The Surprising Truth About What Motivates Us
+* Find Your Why: A Practical Guide for Discovering Purpose for You and Your Team
+* Start with Why: How Great Leaders Inspire Everyone to Take Action
+* Death by Meeting: A Leadership Fable...About Solving the Most Painful Problem in Business
+* The Truth About Employee Engagement: A Fable About Addressing the Three Root Causes of Job Misery
+* The Ideal Team Player: How to Recognize and Cultivate The Three Essential Virtues
+* The Five Dysfunctions of a Team: A Leadership Fable
+* Scrum Mastery: From Good To Great Servant-Leadership
+* The Art of Readable Code: Simple and Practical Techniques for Writing Better Code
+* Architecting for the AWS Cloud: Best Practices (AWS Whitepaper)
+* Getting Started with AWS: Deploying a Web Application
+* The Grumpy Programmer's PHPUnit Cookbook
+* Instant Hands-on Testing with PHPUnit How-to
