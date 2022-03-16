@@ -111,7 +111,9 @@ Designed and built websites with HTML and CSS to W3C standards. Developed dynami
 ### Bachelor of Science in Biology (1989-1993)
 *University of North Carolina at Chapel Hill*
 
-## Books I've Read Since 2016
+## Books
+
+### Read Since 2016
 
 * The Phoenix Project
 * Drive: The Surprising Truth About What Motivates Us
