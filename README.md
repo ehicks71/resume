@@ -115,17 +115,17 @@ Designed and built websites with HTML and CSS to W3C standards. Developed dynami
 
 ### Read Since 2016
 
-* The Phoenix Project
-* Drive: The Surprising Truth About What Motivates Us
-* Find Your Why: A Practical Guide for Discovering Purpose for You and Your Team
-* Start with Why: How Great Leaders Inspire Everyone to Take Action
-* Death by Meeting: A Leadership Fable...About Solving the Most Painful Problem in Business
-* The Truth About Employee Engagement: A Fable About Addressing the Three Root Causes of Job Misery
-* The Ideal Team Player: How to Recognize and Cultivate The Three Essential Virtues
-* The Five Dysfunctions of a Team: A Leadership Fable
-* Scrum Mastery: From Good To Great Servant-Leadership
-* The Art of Readable Code: Simple and Practical Techniques for Writing Better Code
-* Architecting for the AWS Cloud: Best Practices (AWS Whitepaper)
-* Getting Started with AWS: Deploying a Web Application
-* The Grumpy Programmer's PHPUnit Cookbook
-* Instant Hands-on Testing with PHPUnit How-to
+* *The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win* by Gene Kim, Kevin Behr, George Spafford
+* *Drive: The Surprising Truth About What Motivates Us* by Daniel H. Pink
+* *Find Your Why: A Practical Guide for Discovering Purpose for You and Your Team* by Simon Sinek
+* *Start with Why: How Great Leaders Inspire Everyone to Take Action* by Simon Sinek
+* *Death by Meeting: A Leadership Fable...About Solving the Most Painful Problem in Business* by Patrick M. Lencioni
+* *The Truth About Employee Engagement: A Fable About Addressing the Three Root Causes of Job Misery* by Patrick M. Lencioni
+* *The Ideal Team Player: How to Recognize and Cultivate The Three Essential Virtues* by Patrick M. Lencioni
+* *The Five Dysfunctions of a Team: A Leadership Fable* by Patrick M. Lencioni
+* *Scrum Mastery: From Good To Great Servant-Leadership* by Geoff Watts, Rebecca Traeger
+* *The Art of Readable Code: Simple and Practical Techniques for Writing Better Code* by Dustin Boswell, Trevor Foucher
+* *Architecting for the AWS Cloud: Best Practices (AWS Whitepaper)* by Amazon Web Services
+* *Getting Started with AWS: Deploying a Web Application* by Amazon Web Services
+* *The Grumpy Programmer's PHPUnit Cookbook* by Chris Hartjes
+* *Instant Hands-on Testing with PHPUnit How-to* by Michael Lively
