@@ -125,7 +125,13 @@ Designed and built websites with HTML and CSS to W3C standards. Developed dynami
 * *The Five Dysfunctions of a Team: A Leadership Fable* by Patrick M. Lencioni
 * *Scrum Mastery: From Good To Great Servant-Leadership* by Geoff Watts, Rebecca Traeger
 * *The Art of Readable Code: Simple and Practical Techniques for Writing Better Code* by Dustin Boswell, Trevor Foucher
+* *Amazon CodePipeline Users Guide* by Amazon Web Services
+* *Amazon CodeBuild Users Guide* by Amazon Web Services
+* *Amazon CodeDeploy Users Guide* by Amazon Web Services
+* *Amazon CodeCommit Users Guide* by Amazon Web Services
+* *Develop, Deploy, and Manage for Scale with AWS Elastic Beanstalk and AWS CloudFormation* by Amazon Web Services
 * *Architecting for the AWS Cloud: Best Practices (AWS Whitepaper)* by Amazon Web Services
 * *Getting Started with AWS: Deploying a Web Application* by Amazon Web Services
+* *Getting Started with AWS* by Amazone Web Services
 * *The Grumpy Programmer's PHPUnit Cookbook* by Chris Hartjes
 * *Instant Hands-on Testing with PHPUnit How-to* by Michael Lively
