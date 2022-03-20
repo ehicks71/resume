@@ -88,10 +88,10 @@ Designed and built websites with HTML and CSS to W3C standards. Developed dynami
 
 ## EDUCATION
 
-### PHP, JavaScript, React (2012 - Present)
+### Web/Technical Skills (2012 - Present)
 *Team Treehouse*
 
-#### Management
+#### Leadership
 * Product Management Basics
 * Introduction to Project Management
 
