@@ -90,20 +90,25 @@ Designed and built websites with HTML and CSS to W3C standards. Developed dynami
 
 ### PHP, JavaScript, React (2012 - Present)
 *Team Treehouse*
-* Web Design track
-* Frontend Web Development track
-* Beginning JavaScript track
-* Full Stack JavaScript track
-* Learn React track
-* Beginning PHP track
-* Intermediate PHP track
-* Object Oriented PHP track
-* Beginning Java
-* Beginning C#
-* Beginning SQL
-* Digital Literacy
-* Introduction to Project Management
+
+#### Management
 * Product Management Basics
+* Introduction to Project Management
+
+#### Backend
+* Beginning C#
+* Beginning Java
+* Object Oriented PHP track
+* Intermediate PHP track
+* Beginning PHP track
+* Beginning SQL
+
+#### Frontend
+* Learn React track
+* Full Stack JavaScript track
+* Beginning JavaScript track
+* Frontend Web Development track
+* Web Design track
 
 ### Master CIW Web Designer (2004)
 *CIW*
