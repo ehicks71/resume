@@ -115,6 +115,7 @@ Designed and built websites with HTML and CSS to W3C standards. Developed dynami
 
 ### Read Since 2016
 
+* *The Unicorn Project: A Novel about Developers, Digital Disruption, and Thriving in the Age of Data* by Gene Kim
 * *The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win* by Gene Kim, Kevin Behr, George Spafford
 * *Drive: The Surprising Truth About What Motivates Us* by Daniel H. Pink
 * *Find Your Why: A Practical Guide for Discovering Purpose for You and Your Team* by Simon Sinek
