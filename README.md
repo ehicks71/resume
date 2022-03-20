@@ -30,7 +30,7 @@
 ##### Development
 * Removed years of technical debt from our PHP codebases.  
 * Assisted WordPress developer in building templates and helper functionality to make creating Gutenberg blocks more efficient, as well as, adding unit testing.
-* Rewrote 20+ Lambda funcitons as 3 serverless Node JS applications using Cloudformation templates, Lambda functions and layers, SNS, Cloudwatch Events, and API Gateway.
+* Rewrote 20+ Lambda functions as 3 serverless Node JS applications using Cloudformation templates, Lambda functions and layers, SNS, Cloudwatch Events, and API Gateway.
 * Wrote React code for implementation of pledge payments into React web application.
 
 #### Associate Director, Digital Development (2017-2019)
