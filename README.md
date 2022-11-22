@@ -7,17 +7,20 @@
 *Wake Forest University (2012 - Present)*
 
 #### Associate Directory, Digital Product Architecture (2019 - Present)
-*Advancement Information Technology (AIT)*
+*University Advancement, ADS, Advancement Information Technology (AIT)*
 
 ##### Leadership
+* Lead Digital Architect team made up of project leads in documenting our processes, standards, and web applications.
 * Lead Digital Operations team in identifying and documenting tools our team is responsible for managing and maintaining.
-* Lead React development team in refining devlopment workflow.  
+* Strategic leader for WordPress development team in replacing custom themes with Gutenberg compatible plugins using main WFU Gutenberg them.
+* Training and onboarding 2 new WordPress backend developers and 1 new WordPress frontend developer.
+* Lead React development team in refining development workflow.  
 * Lead product team in refining design processes to keep pace with development team.
 * Lead discussions on how to improve release cycles to be more manageable and realistic.
 * Lead React developers in learning how to implement unit testing.
-* Lead Digital Architect team made up of project leads in documenting our processes, standards, and web applications.
 * Managed contractor writing and implementing a custom WordPress plugin and theme per scoped requirements.
-* Served as scrum master for React develompent team using Jira.
+* Served as scrum master for React develompent team using Jira and ClickUp.
+* Served as scrum master for WordPress development team using ClickUp.
 * Helped remove roadblocks including issues with codebases.
 * Shared development knowledge with development team to help them grow.  
 
@@ -28,7 +31,7 @@
 * Improved development environment in AWS Workspace with shell scripts to speed up processes.
 
 ##### Development
-* Removed years of technical debt from our PHP codebases.  
+* Removed 20+ years of technical debt from our PHP codebases.  
 * Assisted WordPress developer in building templates and helper functionality to make creating Gutenberg blocks more efficient, as well as, adding unit testing.
 * Rewrote 20+ Lambda functions as 3 serverless Node JS applications using Cloudformation templates, Lambda functions and layers, SNS, Cloudwatch Events, and API Gateway.
 * Wrote React code for implementation of pledge payments into React web application.
@@ -137,6 +140,7 @@ Designed and built websites with HTML and CSS to W3C standards. Developed dynami
 
 ### Read Since 2016
 
+* *DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations* by Gene Kim, Jez Humble, Patrick Debois, John Willis, Nicole Forsgren
 * *The Unicorn Project: A Novel about Developers, Digital Disruption, and Thriving in the Age of Data* by Gene Kim
 * *The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win* by Gene Kim, Kevin Behr, George Spafford
 * *Drive: The Surprising Truth About What Motivates Us* by Daniel H. Pink
