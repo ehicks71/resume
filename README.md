@@ -21,6 +21,7 @@
 * Assist in analyzing and troubleshooting application issues.
 * Recommend new technologies to help improve productivity.
 * Work with teams to plan, prioritize, and complete project assignments using task management tools and agile/scrum methodologies.
+* Creating CLI tools to improve the workflow for the team.
 
 #### Associate Directory, Digital Product Architecture (2019 - 2022)
 *University Advancement, ADS, Advancement Information Technology (AIT)*
