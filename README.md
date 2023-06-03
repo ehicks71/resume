@@ -12,16 +12,16 @@
 * Lead the creation of strategic, sustainable technical solutions for business operations.
 * Lead the Digital Product Architecture team which is responsible for governance of various SDLCs, coding standards and methodologies, documentation, process management, risk management.
 * Lead the exploration, implementation and oversight of all UA infrastructure and code in AWS that isn't managed by IS.
-* Provide technical leadership in software design and development activities for web applications; provide design reviews and give technical recommendations.
-* Ensure web software security/scalability, regulatory and University policy compliance (PCI, FERPA, Accessibility), audit standards; participate in risk assessments and mitigating activities.
-* Support and facilitate the maintenance and upgrades of existing software applications.
-* Support the whole software development life cycle (SDLC).
-* Ensure that all projects are of high-quality by fostering a culture of test driven development and encouraging usage of tools that evaluate code quality.
-* Mentor and train software engineers on best practices, new technologies and advanced topics in web development.
-* Assist in analyzing and troubleshooting application issues.
-* Recommend new technologies to help improve productivity.
-* Work with teams to plan, prioritize, and complete project assignments using task management tools and agile/scrum methodologies.
-* Creating CLI tools to improve the workflow for the team.
+* Provided technical leadership in software design and development activities for web applications; provide design reviews and give technical recommendations.
+* Ensured web software security/scalability, regulatory and University policy compliance (PCI, FERPA, Accessibility), audit standards; participate in risk assessments and mitigating activities.
+* Supported and facilitate the maintenance and upgrades of existing software applications.
+* Supported the whole software development life cycle (SDLC).
+* Ensured that all projects are of high-quality by fostering a culture of test driven development and encouraging usage of tools that evaluate code quality.
+* Mentored and train software engineers on best practices, new technologies and advanced topics in web development.
+* Assisted in analyzing and troubleshooting application issues.
+* Recommended new technologies to help improve productivity.
+* Worked with teams to plan, prioritize, and complete project assignments using task management tools and agile/scrum methodologies.
+* Created CLI tools to improve the workflow for the team.
 
 #### Associate Directory, Digital Product Architecture (2019 - 2022)
 *University Advancement, ADS, Advancement Information Technology (AIT)*
@@ -157,6 +157,7 @@ Designed and built websites with HTML and CSS to W3C standards. Developed dynami
 
 ### Read Since 2016
 
+* *The Motivation: Why So Many Leaders Abdicate Their Most Important Responsibilities* by Patrick Lencioni
 * *DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations* by Gene Kim, Jez Humble, Patrick Debois, John Willis, Nicole Forsgren
 * *The Unicorn Project: A Novel about Developers, Digital Disruption, and Thriving in the Age of Data* by Gene Kim
 * *The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win* by Gene Kim, Kevin Behr, George Spafford
