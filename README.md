@@ -9,19 +9,38 @@
 #### Principal Software Engineer (2023 - Present)
 *University Advancement, ADS, Advancement Information Technology (AIT)*
 
-* Lead the creation of strategic, sustainable technical solutions for business operations.
-* Lead the Digital Product Architecture team which is responsible for governance of various SDLCs, coding standards and methodologies, documentation, process management, risk management.
-* Lead the exploration, implementation and oversight of all UA infrastructure and code in AWS that isn't managed by IS.
-* Provided technical leadership in software design and development activities for web applications; provide design reviews and give technical recommendations.
-* Ensured web software security/scalability, regulatory and University policy compliance (PCI, FERPA, Accessibility), audit standards; participate in risk assessments and mitigating activities.
-* Supported and facilitate the maintenance and upgrades of existing software applications.
-* Supported the whole software development life cycle (SDLC).
-* Ensured that all projects are of high-quality by fostering a culture of test driven development and encouraging usage of tools that evaluate code quality.
-* Mentored and train software engineers on best practices, new technologies and advanced topics in web development.
-* Assisted in analyzing and troubleshooting application issues.
-* Recommended new technologies to help improve productivity.
-* Worked with teams to plan, prioritize, and complete project assignments using task management tools and agile/scrum methodologies.
-* Created CLI tools to improve the workflow for the team.
+  * Lead the creation of strategic, sustainable technical solutions for business operations, including the evaluation and integration of
+  AI-assisted development tools and multi-agent workflow systems.
+  * Lead the exploration, implementation and oversight of all UA infrastructure and code in AWS that isn't managed by IS.
+  * Designed and built multi-agent systems using Claude Code, developing reusable architectural patterns including coordinator/worker
+  hierarchies, parameterized agents, and automated serial/parallel workflow orchestration across 16+ repositories. Established design principles
+  such as the 10-step rule for agent scope, context-agnostic agent design, and bottom-up validation loops.
+  * Developed structured prompt engineering methodologies grounded in software engineering principles (Single Responsibility, DRY, separation of
+  concerns). Discovered that explicitly defining success criteria — rather than just task steps — dramatically improved AI reliability, driving
+  agent compliance from 25% to 100%.
+  * Created automated batch workflows that reduced multi-week manual testing and tracking processes to days by delegating detail management to AI
+   agents while retaining human oversight of strategy and decision-making.
+  * Developed a systematic quality evaluation framework (Clear, Concise, Precise) for AI workflow instructions, assessing and improving ~60
+  instruction files across three quality tiers (Good, Excellent, Exceptional) with reusable templates for coordinators, workers, and standards
+  documents.
+  * Provided technical leadership in software design and development activities for web applications; provide design reviews and give technical
+  recommendations.
+  * Ensured web software security/scalability, regulatory and University policy compliance (PCI, FERPA, Accessibility), audit standards;
+  participate in risk assessments and mitigating activities.
+  * Supported and facilitate the maintenance and upgrades of existing software applications.
+  * Supported the whole software development life cycle (SDLC).
+  * Ensured that all projects are of high-quality by fostering a culture of test driven development and encouraging usage of tools that evaluate
+  code quality.
+  * Mentored and trained software engineers on best practices, new technologies and advanced topics in web development, including practical AI
+  integration, prompt engineering techniques, and model selection strategies.
+  * Earned AWS Certified AI Practitioner certification (2025) through intensive self-directed study encompassing LLM architecture, NLP,
+  embeddings, tokenization, neural networks, and model evaluation. Independently completed over 109 episodes of AI-focused podcasts and multiple
+  training courses to build a comprehensive understanding of the AI landscape.
+  * Completed a 9-part analytical series examining AI safety, alignment, and consciousness from a builder's perspective, contributing original
+  observations about the gap between theoretical AI risk narratives and practical experience building reliable AI systems.
+  * Recommended new technologies to help improve productivity.
+  * Worked with teams to plan, prioritize, and complete project assignments using task management tools and agile/scrum methodologies.
+  * Created CLI tools to improve the workflow for the team.
 
 #### Associate Directory, Digital Product Architecture (2019 - 2022)
 *University Advancement, ADS, Advancement Information Technology (AIT)*
